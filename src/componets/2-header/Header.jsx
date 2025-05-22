@@ -57,7 +57,7 @@ const Header = () => {
 
       <div className="header__image">
         <motion.img
-          src="./assets/me1.jpg"
+          src="./images/me1.jpg"
           alt="header"
           initial={{ opacity: 0, transform: "translateX(40px)" }}
           animate={{ opacity: 1, transform: "translateY(0)" }}

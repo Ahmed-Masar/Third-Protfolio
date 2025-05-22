@@ -89,6 +89,10 @@ nav {
 
   .nav__links li a {
     color: var(--text-dark);
+    transition: 0.3s;
+  }
+  .nav__links li a:hover {
+    color: var(--primary-color);
   }
 
   .nav__btns {

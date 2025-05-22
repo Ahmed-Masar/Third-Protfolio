@@ -1,12 +1,12 @@
 export const myProjectes = [
   {
-    projectTitle: "Photography",
+    projectTitle: "Fitnesxia",
     projectBody:
-      "This is a website I created using React, Framer Motion for animations, and Swiper for smooth and interactive sliders.",
+      "This is a website I created using React and Framer Motion for animations",
     category: ["react", "all"],
-    imgPath: "./images/Photography.jpg",
-    websiteURL: "https://chic-crumble-a55462.netlify.app/",
-    githubURL: "https://github.com/Ahmed-Masar/Photography.git",
+    imgPath: "./images/Fitnesxia.jpg",
+    websiteURL: "https://fitnesxia3.netlify.app/",
+    githubURL: "https://github.com/Ahmed-Masar/Fitnesxia",
     listNumber: "1",
   },
   {
@@ -19,15 +19,14 @@ export const myProjectes = [
     githubURL: "https://github.com/Ahmed-Masar/TravelToor",
     listNumber: "1",
   },
-
   {
-    projectTitle: "Fitnesxia",
+    projectTitle: "Photography",
     projectBody:
-      "This is a website I created using React and Framer Motion for animations",
+      "This is a website I created using React, Framer Motion for animations, and Swiper for smooth and interactive sliders.",
     category: ["react", "all"],
-    imgPath: "./images/Fitnesxia.jpg",
-    websiteURL: "https://fitnesxia3.netlify.app/",
-    githubURL: "https://github.com/Ahmed-Masar/Fitnesxia",
+    imgPath: "./images/Photography.jpg",
+    websiteURL: "https://chic-crumble-a55462.netlify.app/",
+    githubURL: "https://github.com/Ahmed-Masar/Photography.git",
     listNumber: "1",
   },
 

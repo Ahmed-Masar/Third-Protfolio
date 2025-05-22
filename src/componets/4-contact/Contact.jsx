@@ -1,9 +1,9 @@
-import "./subscribe.css";
+import "./contact.css";
 import { useForm, ValidationError } from "@formspree/react";
 import Lottie from "lottie-react";
-import doneAnmiation from "../..//aniamtion/done.json";
-import contactAnmiation from "../..//aniamtion/contact.json";
-const Subscribe = () => {
+import doneAnmiation from "../../aniamtion/done.json";
+import contactAnmiation from "../../aniamtion/contact.json";
+const Contact = () => {
   const [state, handleSubmit] = useForm("meogwown");
 
   return (
@@ -77,4 +77,4 @@ const Subscribe = () => {
   );
 };
 
-export default Subscribe;
+export default Contact;

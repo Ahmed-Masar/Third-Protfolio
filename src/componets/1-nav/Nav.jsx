@@ -35,10 +35,10 @@ const Nav = () => {
           <a href="#home">Home</a>
         </li>
         <li>
-          <a href="#about">Projects</a>
+          <a href="#projects">Projects</a>
         </li>
         <li>
-          <a href="#contact">Contact</a>
+          <a href="#contact">Contact Us</a>
         </li>
       </ul>
 

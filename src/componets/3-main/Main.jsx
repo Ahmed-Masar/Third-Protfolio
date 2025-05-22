@@ -1,10 +1,10 @@
-import "./choose.css";
+import "./main.css";
 import { Github } from "lucide-react";
 // eslint-disable-next-line no-unused-vars
 import { motion } from "motion/react";
 import { useState, useEffect } from "react";
 import { myProjectes } from "./myProjectes";
-const Choose = () => {
+const Main = () => {
   const [active, setActive] = useState("all");
   const [numberOfList, setNumberOfList] = useState("");
   const [arr, setArr] = useState(myProjectes);
@@ -184,4 +184,4 @@ const Choose = () => {
   );
 };
 
-export default Choose;
+export default Main;

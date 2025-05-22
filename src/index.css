@@ -44,9 +44,7 @@
   color: var(--text-light);
   line-height: 1.75rem;
 }
-button {
-  cursor: pointer;
-}
+
 .btn {
   padding: 0.75rem 1.5rem;
   outline: none;

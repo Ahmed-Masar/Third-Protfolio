@@ -8,10 +8,10 @@ const Contact = () => {
 
   return (
     <section className="contact-us section__container" id="contact">
-      <h1 className="title">Contact Us</h1>
+      <p className="section__subheader">Contact Us</p>
 
-      <p className="sub-title">
-        Your vision deserves to be built with passion — Let’s bring it to life.
+      <p className="section__header">
+        Bringing your vision to life — <span>with passion.</span>
       </p>
 
       <div className="flex" style={{ marginTop: "2rem " }}>

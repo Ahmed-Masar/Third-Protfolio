@@ -119,7 +119,7 @@ main .right-section {
   background-color: rgba(36, 37, 46, 1);
   cursor: pointer;
   border-radius: 5px;
-  opacity: 0.5;
+  opacity: 0.6;
   transition: 0.3s;
   color: var(--extra-light);
 }

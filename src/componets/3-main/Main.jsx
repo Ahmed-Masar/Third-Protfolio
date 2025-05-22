@@ -1,4 +1,4 @@
-import "./main.css";
+import "./Main.css";
 import { Github } from "lucide-react";
 // eslint-disable-next-line no-unused-vars
 import { motion } from "motion/react";

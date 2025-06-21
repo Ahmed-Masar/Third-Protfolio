@@ -96,6 +96,15 @@ const Main = () => {
         >
           Next
         </button>
+
+        <button
+          onClick={() => {
+            handleClick("fullStack");
+          }}
+          className={active == "fullStack" ? "active" : ""}
+        >
+          Full Stack Projects
+        </button>
       </section>
 
       <section className="all__of__right">

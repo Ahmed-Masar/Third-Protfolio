@@ -20,6 +20,17 @@ export const myProjectes = [
     listNumber: "1",
   },
   {
+    projectTitle: "My First Full Stack Website",
+    projectBody: `My first full stack app – a simple note-taking tool.
+     Frontend: React, Tailwind
+    Backend: Node.js, Express, MongoDB`,
+    category: ["fullStack", "all"],
+    imgPath: "../../../public/images/first project full stack.jpg",
+    websiteURL: "https://first-fullstack-project-d3t0.onrender.com/",
+    githubURL: "https://github.com/Ahmed-Masar/first-fullstack-project",
+    listNumber: "1",
+  },
+  {
     projectTitle: "Photography",
     projectBody:
       "This is a website I created using React, Framer Motion for animations, and Swiper for smooth and interactive sliders.",

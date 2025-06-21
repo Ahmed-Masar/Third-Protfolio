@@ -25,7 +25,7 @@ export const myProjectes = [
      Frontend: React, Tailwind
     Backend: Node.js, Express, MongoDB`,
     category: ["fullStack", "all"],
-    imgPath: "../../../public/images/first project full stack.jpg",
+    imgPath: "./images/first project full stack.jpg",
     websiteURL: "https://first-fullstack-project-d3t0.onrender.com/",
     githubURL: "https://github.com/Ahmed-Masar/first-fullstack-project",
     listNumber: "1",
